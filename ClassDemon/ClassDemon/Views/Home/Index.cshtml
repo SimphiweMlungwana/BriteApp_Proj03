@@ -1,0 +1,241 @@
+﻿@using PagedList
+@using PagedList.Mvc
+
+@model PagedList<ClassDemon.Models.OrderModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Order Data</title>
+    <!-- Meta Tags -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta name="keywords" content="n" />
+    <script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+    <!-- //Meta Tags -->
+    <!-- Style-sheets -->
+    <!-- Bootstrap Css -->
+    <link href="~/Content/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <!-- Bootstrap Css -->
+    <!-- Common Css -->
+    <link href="~/Content/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <!--// Common Css -->
+    <!-- Nav Css -->
+    <link rel="stylesheet" href="~/Content/css/style4.css">
+    <!--// Nav Css -->
+    <!-- Fontawesome Css -->
+    <link href="~/Content/css/fontawesome-all.css" rel="stylesheet">
+    <!--// Fontawesome Css -->
+    <!--// Style-sheets -->
+    <!--web-fonts-->
+    <link href="//fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+    <!--//web-fonts-->
+</head>
+
+<body>
+    <div class="wrapper">
+        <!-- Sidebar Holder -->
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <h1>
+                    <a style="font-size: medium;font-family: Arial, Helvetica, sans-serif;" href="index.html">Brite Supermarket</a>
+                </h1>
+                <span>M</span>
+            </div>
+            <div class="profile-bg"></div>
+            <ul class="list-unstyled components">
+                <li class="active">
+                    <a href="index.html">
+                        <i class="fas fa-th-large"></i>
+                        Admin Home
+                    </a>
+                </li>
+                <li>
+                    <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">
+                        <i class="fas fa-laptop"></i>
+                        Data Display
+                        <i class="fas fa-angle-down fa-pull-right"></i>
+                    </a>
+                    <ul class="collapse list-unstyled" id="homeSubmenu">
+                        <li>
+                            <p>Orders</p>
+                            @Html.ActionLink("Orders", "../Orders/Index")
+                        </li>
+                        <li>
+                            <p>People</p>
+                            @Html.ActionLink("people", "../people/Index")
+                        </li>
+                        <li>
+                            <p>Returns</p>
+                            @Html.ActionLink("Returns", "../Returns/Index")
+                        </li>
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="charts.html">
+                        <i class="fas fa-chart-pie"></i>
+                        Data Summary
+                    </a>
+                </li>
+                <li>
+                    <a href="grids.html">
+                        <i class="fas fa-th"></i>
+                        Grid Layouts
+                    </a>
+                </li>
+                <li>
+                    <a href="#pageSubmenu1" data-toggle="collapse" aria-expanded="false">
+                        <i class="far fa-file"></i>
+                        Relational Data
+                        <i class="fas fa-angle-down fa-pull-right"></i>
+                    </a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu1">
+                        <li>
+                            @Html.ActionLink("Product Purchases over Time", "../Orders/DataVisuals")
+                        </li>
+                        <li>
+                            <a href="404.html">Order Priority vs. Location</a>
+                        </li>
+                        <li>
+                            <a href="500.html">Order Priority vs. Product</a>
+                        </li>
+                        <li>
+                            <a href="blank.html">Economic Charts</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+
+        <!-- Page Content Holder -->
+        <div id="content">
+            <!-- top-bar -->
+            <nav class="navbar navbar-default mb-xl-5 mb-4">
+                <div class="container-fluid">
+
+                    <div class="navbar-header">
+                        <button type="button" id="sidebarCollapse" class="btn btn-info navbar-btn">
+                            <i class="fas fa-bars"></i>
+                        </button>
+                    </div>
+                    <!-- Search-from -->
+                    <form action="#" method="post" class="form-inline mx-auto search-form">
+                        <input class="form-control mr-sm-2" type="search" placeholder="Search Data" aria-label="Search Data" required="">
+                        <button class="btn btn-style my-2 my-sm-0" type="submit">Search</button>
+                    </form>
+                    <!--// Search-from -->
+                    <ul class="top-icons-agileits-w3layouts float-right">
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true"
+                               aria-expanded="false">
+                                <i class="far fa-user"></i>
+                            </a>
+                            <div class="dropdown-menu drop-3">
+                                <div class="profile d-flex mr-o">
+                                    <div class="profile-l align-self-center">
+                                        <img src="~Content/images/profile.jpg" class="img-fluid mb-3" alt="Responsive image">
+                                    </div>
+                                    <div class="profile-r align-self-center">
+                                        <h3 class="sub-title-w3-agileits">Simphiwe</h3>
+                                        <a href="mailto:info@example.com">info@example.com</a>
+                                    </div>
+                                </div>
+                                <a href="#" class="dropdown-item mt-3">
+                                    <h4>
+                                        <i class="far fa-user mr-3"></i>My Profile
+                                    </h4>
+                                </a>
+                                <a href="#" class="dropdown-item mt-3">
+                                    <h4>
+                                        <i class="fas fa-link mr-3"></i>Activity
+                                    </h4>
+                                </a>
+                                <a href="#" class="dropdown-item mt-3">
+                                    <h4>
+                                        <i class="far fa-envelope mr-3"></i>Messages
+                                    </h4>
+                                </a>
+                                <a href="#" class="dropdown-item mt-3">
+                                    <h4>
+                                        <i class="far fa-question-circle mr-3"></i>Faq
+                                    </h4>
+                                </a>
+                                <a href="#" class="dropdown-item mt-3">
+                                    <h4>
+                                        <i class="far fa-thumbs-up mr-3"></i>Support
+                                    </h4>
+                                </a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="login.html">Logout</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <!--// top-bar -->
+            <!-- Tables content -->
+            <!--// Tables content -->
+            <!-- Copyright -->
+            <div class="copyright-w3layouts py-xl-3 py-2 mt-xl-5 mt-4 text-center">
+                <p>
+                    © 2018 Modernize . All Rights Reserved | Design by
+                    <h3 style="text-decoration-color: lightcyan;">Code Soc Softwares</h3>
+                </p>
+            </div>
+            <!--// Copyright -->
+        </div>
+    </div>
+
+
+    <!-- Required common Js -->
+    <script src='~/Content/js/jquery-2.2.3.min.js'></script>
+    <!-- //Required common Js -->
+    <!-- Sidebar-nav Js -->
+    <script>
+        $(document).ready(function () {
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('active');
+            });
+        });
+    </script>
+    <!--// Sidebar-nav Js -->
+    <!-- dropdown nav -->
+    <script>
+        $(document).ready(function () {
+            $(".dropdown").hover(
+                function () {
+                    $('.dropdown-menu', this).stop(true, true).slideDown("fast");
+                    $(this).toggleClass('open');
+                },
+                function () {
+                    $('.dropdown-menu', this).stop(true, true).slideUp("fast");
+                    $(this).toggleClass('open');
+                }
+            );
+        });
+    </script>
+    <!-- //dropdown nav -->
+    <!-- Js for bootstrap working-->
+    <script src="~/Content/js/bootstrap.min.js"></script>
+    <!-- //Js for bootstrap working -->
+
+</body>
+
+</html>

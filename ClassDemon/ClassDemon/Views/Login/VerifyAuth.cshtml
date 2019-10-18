@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "VerifyAuth";
+    
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>VerifyAuth</title>
+</head>
+<body>
+    <div>
+        <img src="@ViewBag.BarcodeImageUrl" />
+        <div align="center" style="width:100%">
+            <div style="width:300px;"></div>
+            <form method="post">
+                <img src="@ViewBag.BarcodeImageUrl" />
+                <br />
+                <input style="width:200px;" placeholder="Enter OTP here..." type="text" name="passcode"/>
+                <input type="submit" value="Login" class="btn btn-success" />
+            </form>
+        </div>
+    </div>
+</body>
+</html>

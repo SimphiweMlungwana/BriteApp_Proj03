@@ -1,0 +1,406 @@
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\ClassDemon.dll.config
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\ClassDemon.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\ClassDemon.pdb
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\csc.exe
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\csc.exe.config
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\csc.rsp
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\csi.exe
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\csi.exe.config
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\csi.rsp
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.AppContext.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Console.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.IO.Compression.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Security.Claims.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.ValueTuple.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\vbc.exe
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\vbc.exe.config
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\vbc.rsp
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\VBCSCompiler.exe
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\netstandard.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.AppContext.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Collections.Concurrent.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Collections.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Collections.NonGeneric.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Collections.Specialized.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.ComponentModel.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.ComponentModel.Primitives.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Console.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Data.Common.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.Contracts.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.Debug.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.Process.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.Tools.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.Tracing.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Drawing.Primitives.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Dynamic.Runtime.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Globalization.Calendars.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Globalization.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Globalization.Extensions.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.Compression.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.FileSystem.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.IsolatedStorage.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.Pipes.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Linq.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Linq.Expressions.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Linq.Parallel.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Linq.Queryable.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.Http.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.NameResolution.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.NetworkInformation.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.Ping.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.Primitives.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.Requests.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.Security.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.Sockets.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.WebSockets.Client.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.WebSockets.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.ObjectModel.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Reflection.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Reflection.Extensions.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Reflection.Primitives.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Resources.Reader.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Resources.ResourceManager.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Resources.Writer.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.Extensions.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.Handles.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.InteropServices.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.Numerics.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Security.Claims.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Security.Principal.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Security.SecureString.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Text.Encoding.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Text.RegularExpressions.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Threading.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Threading.Overlapped.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Threading.Tasks.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Threading.Thread.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Threading.ThreadPool.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Threading.Timer.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.ValueTuple.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Xml.ReaderWriter.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Xml.XDocument.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Xml.XmlDocument.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Xml.XmlSerializer.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Xml.XPath.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Antlr3.Runtime.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Crc32C.NET.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\DnsClient.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\MongoDB.Bson.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\MongoDB.Driver.Core.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\MongoDB.Driver.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Newtonsoft.Json.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\PagedList.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\PagedList.Mvc.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\SharpCompress.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Snappy.NET.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Buffers.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.Helpers.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.Mvc.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.Optimization.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.Razor.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.WebPages.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.WebPages.Razor.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\WebGrease.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Crc32C.NET.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\DnsClient.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\MongoDB.Bson.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\MongoDB.Driver.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\MongoDB.Driver.Core.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\PagedList.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\PagedList.Mvc.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Snappy.NET.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Buffers.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.Helpers.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.Mvc.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.Optimization.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.Razor.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.WebPages.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.WebPages.Razor.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Newtonsoft.Json.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Antlr3.Runtime.pdb
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\obj\Debug\SupermaApp_N.csprojAssemblyReference.cache
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\obj\Debug\SupermaApp_N.csproj.CoreCompileInputs.cache
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\obj\Debug\SupermaApp_N.csproj.CopyComplete
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\obj\Debug\ClassDemon.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\obj\Debug\ClassDemon.pdb
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.Auth.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.Core.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.PlatformServices.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Google.Authenticator.dll
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.pdb
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.Auth.pdb
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.Auth.xml
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.Core.pdb
+C:\Users\Simphiwe\Desktop\NWU IT\4th Year\2nd Semester\ITRW 324\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.Core.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\ClassDemon.dll.config
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\ClassDemon.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\ClassDemon.pdb
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\csc.exe
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\csc.exe.config
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\csc.rsp
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\csi.exe
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\csi.exe.config
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\csi.rsp
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Console.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Security.Claims.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\vbc.exe
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\vbc.exe.config
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\vbc.rsp
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\netstandard.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.AppContext.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Collections.Concurrent.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Collections.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Collections.NonGeneric.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Collections.Specialized.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.ComponentModel.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.ComponentModel.Primitives.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Console.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Data.Common.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.Contracts.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.Debug.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.Process.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.Tools.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Diagnostics.Tracing.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Drawing.Primitives.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Dynamic.Runtime.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Globalization.Calendars.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Globalization.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Globalization.Extensions.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.Compression.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.FileSystem.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.IsolatedStorage.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.Pipes.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Linq.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Linq.Expressions.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Linq.Parallel.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Linq.Queryable.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.Http.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.NameResolution.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.NetworkInformation.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.Ping.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.Primitives.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.Requests.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.Security.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.Sockets.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.WebSockets.Client.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Net.WebSockets.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.ObjectModel.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Reflection.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Reflection.Extensions.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Reflection.Primitives.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Resources.Reader.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Resources.ResourceManager.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Resources.Writer.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.Extensions.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.Handles.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.InteropServices.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.Numerics.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Security.Claims.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Security.Principal.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Security.SecureString.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Text.Encoding.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Text.RegularExpressions.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Threading.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Threading.Overlapped.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Threading.Tasks.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Threading.Thread.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Threading.ThreadPool.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Threading.Timer.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.ValueTuple.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Xml.ReaderWriter.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Xml.XDocument.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Xml.XmlDocument.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Xml.XmlSerializer.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Xml.XPath.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Antlr3.Runtime.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Crc32C.NET.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\DnsClient.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.Auth.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.Core.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.PlatformServices.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Google.Authenticator.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\MongoDB.Bson.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\MongoDB.Driver.Core.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\MongoDB.Driver.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Newtonsoft.Json.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\PagedList.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\PagedList.Mvc.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\SharpCompress.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Snappy.NET.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Buffers.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.Helpers.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.Mvc.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.Optimization.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.Razor.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.WebPages.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.WebPages.Razor.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\WebGrease.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Crc32C.NET.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\DnsClient.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.pdb
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.Auth.pdb
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.Auth.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.Core.pdb
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Google.Apis.Core.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\MongoDB.Bson.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\MongoDB.Driver.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\MongoDB.Driver.Core.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\PagedList.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\PagedList.Mvc.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Snappy.NET.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Buffers.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.Helpers.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.Mvc.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.Optimization.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.Razor.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.WebPages.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\System.Web.WebPages.Razor.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Newtonsoft.Json.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Antlr3.Runtime.pdb
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\obj\Debug\SupermaApp_N.csprojAssemblyReference.cache
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\obj\Debug\SupermaApp_N.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\obj\Debug\SupermaApp_N.csproj.CopyComplete
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\obj\Debug\ClassDemon.dll
+C:\Users\Student\Downloads\ClassDemon\ClassDemon\ClassDemon\obj\Debug\ClassDemon.pdb
